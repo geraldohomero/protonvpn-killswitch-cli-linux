@@ -3,4 +3,5 @@ After system restart, the network it's not working becouse killswitch is enable.
 
 `protonvpn-cli ks --off`
 
+
 It will disable the killswith of the proton vpn.
