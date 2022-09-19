@@ -4,4 +4,6 @@ After system restart, the network it's not working becouse killswitch is enable.
 
 `protonvpn-cli ks --off`
 
-It will disable the killswith of the proton vpn. Now you can login into the app!
+It will disable the killswith of the Proton VPN. 
+
+Now you can login into the app!
